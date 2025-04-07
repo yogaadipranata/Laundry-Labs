@@ -32,4 +32,4 @@ You can access the live version of the website here:
 ## 📫 Contact
 I Wayan Yoga Adi Pranata
 
-[My Email](mailto:yogaadipranata10@gmail.com)
+[Email](mailto:yogaadipranata10@gmail.com)
